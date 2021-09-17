@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exampleFunctionThatReturnsV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exampleFunctionTakesNoArguments", "exampleFunctionTakesNoArguments\exampleFunctionTakesNoArguments.csproj", "{44163D52-B6FA-4202-B666-EAA089AC1E8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exampleFunction", "exampleFunction\exampleFunction.csproj", "{6124C6AA-6481-431C-874A-93E59DFE9ACD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{44163D52-B6FA-4202-B666-EAA089AC1E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44163D52-B6FA-4202-B666-EAA089AC1E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44163D52-B6FA-4202-B666-EAA089AC1E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6124C6AA-6481-431C-874A-93E59DFE9ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6124C6AA-6481-431C-874A-93E59DFE9ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6124C6AA-6481-431C-874A-93E59DFE9ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6124C6AA-6481-431C-874A-93E59DFE9ACD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
